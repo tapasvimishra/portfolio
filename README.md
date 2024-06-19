@@ -17,14 +17,14 @@ BACHELOR OF COMPUTER APPLICATION Grade : 2.4
 During my Bachelor's degree, I developed a strong foundation in programming and data analysis. I learned Python, SQL, and Data Analytics through comprehensive coursework and practical projects. These experiences equipped me with the technical skills and analytical abilities essential for my career in data 
 
 ## Work Experience
-**Data Science - ESCP / Berlin - May 2024 – Present**
+**Data Science @ ESCP / Berlin - May 2024 – Present**
 -Conduct research on change, sustainability, and succession in upper echelons under Prof. Maximilian Weis, using advanced data analysis techniques.
 
 -Perform Big Data Analytics on 10-K reports from the SEC website with Python Libraries, and visualize critical financial data with Power BI to understand TMT decisions impact on business performance.
 
 -Collaborate with a cross-functional team to develop predictive models that forecast business performance trends.
 
-**Junior Analyst - Trsto / India - Oct 2021 – Oct 2022**
+**Junior Analyst @ Trsto / India - Oct 2021 – Oct 2022**
 -Optimized the data pipeline with a large dataset through ETL procedures using Python, improving the trust score algorithm's efficacy by 17% within 3 months.
 
 -Utilized advanced BI dashboards to analyze user-entered data using DAX, boosting the algorithm by 23%.
@@ -33,7 +33,7 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 -Assisted summer analysts on data analysis techniques and best practices.
 
-**Summer Analyst - Trsto / India - Apr 2021 – Oct 2021**
+**Summer Analyst @ Trsto / India - Apr 2021 – Oct 2021**
 -Conducted in-depth research and analysis, providing actionable insights via Power BI dashboards to fuel growth and efficiency gains.
 
 -Contributed to the beta phase rollout, surpassing projected sprint timelines by 15%.
