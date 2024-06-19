@@ -53,7 +53,7 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 -Improved healthcare data analysis capabilities.
 
-### Job Genie - Apr 2023 - Jun 2023 (Repository)
+### Job Genie - Apr 2023 - Jun 2023
 -Led the development of a web-based NLP project using Python libraries and Google's T5 model.
 
 -Extracted key requirements from extensive job descriptions.
