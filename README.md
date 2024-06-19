@@ -73,7 +73,11 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 
 ## Certificates
+
 -Google Data Analytics Professional Certificate (Jun 2023 - Aug 2023)
+
 -PL-900: Microsoft Power Platform Fundamentals (Feb 2024)
+
 -Agile Project Management (Aug 2023)
+
 -Data Visualization with Advanced Excel (Aug 2023 - Sep 2023)
