@@ -51,6 +51,19 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 
 ## Projects
+###Imagnifying  -  Oct 2023 - Jun 2024  ( Repository ) ( GPT Link  ) 
+- Developed an innovative text-to-image synthesis pipeline using T5, GPT-2, Stable Diffusion, and MPNet models, 
+significantly enhancing multimedia content creation.
+
+- Achieved a 50% improvement in image generation quality and a 30% reduction in processing time through 
+optimized model integration and efficient processing techniques.
+
+- Generated over 100 high-quality images from textual summaries, demonstrating the robustness and efficiency of 
+the pipeline.
+
+- Presented findings at a seminar, receiving positive feedback from 90% of attendees, showcasing practical 
+applications and effectiveness of the developed pipeline. 
+
 ### Multipage Healthcare Dashboard - Feb 2024 
 
 -Developed an interactive multi-page drill-down dashboard using Power BI to monitor inpatient and outpatient data.
