@@ -51,7 +51,8 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 
 ## Projects
-### Imagnifying  -  Oct 2023 - Jun 2024  ( Repository ) ( GPT Link  ) 
+
+### Imagnifying  -  Oct 2023 - Jun 2024  
 
 -Developed an innovative text-to-image synthesis pipeline using T5, GPT-2, Stable Diffusion, and MPNet models, 
 significantly enhancing multimedia content creation.
