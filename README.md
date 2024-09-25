@@ -10,7 +10,7 @@
 ## Education
 **Hochschule Schmalkalden - Schmalkalden, Germany - Oct 2022 - Present**
 
-MASTER'S OF APPLIED COMPUTER SCIENCE Grade : 2.2 (Current Average)
+MASTER'S OF APPLIED COMPUTER SCIENCE Grade : 1.7 (Current Average)
 
 Currently in the 4th semester of my Master's degree, I have developed a strong foundation in Data Science, learning a variety of advanced skills. My coursework has covered convolutional neural networks, big data analytics, and other essential data science methodologies. This rigorous program has equipped me with practical knowledge and hands-on experience, preparing me for complex data-driven challenges in the industry.
 
@@ -21,7 +21,14 @@ BACHELOR OF COMPUTER APPLICATION Grade : 2.4
 During my Bachelor's degree, I developed a strong foundation in programming and data analysis. I learned Python, SQL, and Data Analytics through comprehensive coursework and practical projects. These experiences equipped me with the technical skills and analytical abilities essential for my career in data 
 
 ## Work Experience
-**Data Science @ ESCP / Berlin - May 2024 – Present**
+**Intern Financial Analytics and Controlling @ ESCP / Munich - Sep 2024 – Present**
+-Leading the development of financial dashboards for tracking order intake and pipeline data, improving sales reporting efficiency by 25% and providing key insights for business decision-making
+-Automating month-end financial workflows between SAP BW queries and dashboard input files, reducing manual data processing time by 30% and contributing to timely financial reporting.
+-Collaborating with cross-functional teams to create monthly sales prognosis reports, which contributed to a 10% improvement in sales forecast accuracy and better business decision-making
+-Using SAP Analysis for Excel for pivoting the data with the help of lookups, macros and conditional performed variance analysis on sales data, identifying trends and contributing to a 10% improvement in sales forecast accuracy, which aided in strategic financial planning.
+-Improving financial data accuracy by streamlining data validation processes, leading to a 20% reduction in reporting errors and ensuring compliance with internal financial controls.
+
+**Student Assistant Data Researcher @ ESCP / Berlin - Jan 2024 – Aug 2024**
 
 -Conduct research on change, sustainability, and succession in upper echelons under Prof. Maximilian Weis, using advanced data analysis techniques.
 
