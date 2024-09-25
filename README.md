@@ -25,9 +25,13 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 **Intern Financial Analytics and Controlling @ ESCP / Munich - Sep 2024 – Present**
 
 -Leading the development of financial dashboards for tracking order intake and pipeline data, improving sales reporting efficiency by 25% and providing key insights for business decision-making
+
 -Automating month-end financial workflows between SAP BW queries and dashboard input files, reducing manual data processing time by 30% and contributing to timely financial reporting.
+
 -Collaborating with cross-functional teams to create monthly sales prognosis reports, which contributed to a 10% improvement in sales forecast accuracy and better business decision-making
+
 -Using SAP Analysis for Excel for pivoting the data with the help of lookups, macros and conditional performed variance analysis on sales data, identifying trends and contributing to a 10% improvement in sales forecast accuracy, which aided in strategic financial planning.
+
 -Improving financial data accuracy by streamlining data validation processes, leading to a 20% reduction in reporting errors and ensuring compliance with internal financial controls.
 
 **Student Assistant Data Researcher @ ESCP / Berlin - Jan 2024 – Aug 2024**
