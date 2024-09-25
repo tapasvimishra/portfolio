@@ -21,7 +21,9 @@ BACHELOR OF COMPUTER APPLICATION Grade : 2.4
 During my Bachelor's degree, I developed a strong foundation in programming and data analysis. I learned Python, SQL, and Data Analytics through comprehensive coursework and practical projects. These experiences equipped me with the technical skills and analytical abilities essential for my career in data 
 
 ## Work Experience
+
 **Intern Financial Analytics and Controlling @ ESCP / Munich - Sep 2024 – Present**
+
 -Leading the development of financial dashboards for tracking order intake and pipeline data, improving sales reporting efficiency by 25% and providing key insights for business decision-making
 -Automating month-end financial workflows between SAP BW queries and dashboard input files, reducing manual data processing time by 30% and contributing to timely financial reporting.
 -Collaborating with cross-functional teams to create monthly sales prognosis reports, which contributed to a 10% improvement in sales forecast accuracy and better business decision-making
