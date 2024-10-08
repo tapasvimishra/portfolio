@@ -1,4 +1,4 @@
-# Data Science Researcher
+# Analyst @ Robert Bosch GmbH
 
 #### Programming Languages: Python (NumPy, SciPy, Pandas, PyTorch, Matplotlib, Seaborn), SQL (Macros)
 #### BI Tools: Power BI (DAX), Tableau
@@ -22,7 +22,7 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 ## Work Experience
 
-**Intern Financial Analytics and Controlling @ ESCP / Munich - Sep 2024 – Present**
+**Intern Financial Analytics and Controlling @ Robert Bosch GmbH / Munich - Sep 2024 – Present**
 
 -Leading the development of financial dashboards for tracking order intake and pipeline data, improving sales reporting efficiency by 25% and providing key insights for business decision-making
 
