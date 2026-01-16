@@ -22,7 +22,22 @@ During my Bachelor's degree, I developed a strong foundation in programming and 
 
 ## Work Experience
 
-**Intern Financial Analytics and Controlling @ Robert Bosch GmbH / Munich - Sep 2024 – Present**
+**Data Analyst - Denso Automotive GmbH / Munich - June 2025 - Present**
+
+-Streamlined ETL workflows with Excel Power Query and Python, enhancing data accuracy for TÜV carbon-neutrality certifications.
+
+-Engineered a proof‑of‑concept pipeline for automated emissions data extraction using Python and D‑EPC API, reducing manual effort by 70% and enabling clearer stakeholder presentation and strategic decision-making.
+
+-Developed DAX-powered Power BI dashboards to visualize “Target vs. Actual” emissions metrics across 15+ Denso sites
+
+-Created an AI-based document-to-KPI system using Azure AI and Power Platform, delivering structured insights via a custom in-house Power App used by multiple departments.
+
+-Migrated and transformed 5 years of historical emissions data into a scalable model for trend analysis
+
+-Collaborated with engineering teams to define KPIs, delivering actionable insights for emissions reduction initiatives.
+
+
+**Intern Financial Analytics and Controlling @ Robert Bosch GmbH / Munich - Sep 2024 – May 2025**
 
 -Leading the development of financial dashboards for tracking order intake and pipeline data, improving sales reporting efficiency by 25% and providing key insights for business decision-making
 
